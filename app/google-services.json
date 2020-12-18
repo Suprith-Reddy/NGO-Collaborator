@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "816201450703",
+    "firebase_url": "https://education-295b7.firebaseio.com",
+    "project_id": "education-295b7",
+    "storage_bucket": "education-295b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816201450703:android:0965085cb0cd4e6f",
+        "android_client_info": {
+          "package_name": "com.supri.education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816201450703-1fi4gspmdn60a6an7f3dnjnhhkokileq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOAuLR2vkgmD3sVZE4oyGFldCxxFGO3Zs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
